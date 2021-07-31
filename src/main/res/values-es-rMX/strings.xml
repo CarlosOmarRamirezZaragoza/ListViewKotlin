@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactsListView</string>
+    <string name="people_name">Nombre</string>
+    <string name="back_to_main">Regresar</string>
+    <string name="total_users">Usuarios totales: %1$d</string>
+    <string name="search_users">Buscar usuario...</string>
+</resources>

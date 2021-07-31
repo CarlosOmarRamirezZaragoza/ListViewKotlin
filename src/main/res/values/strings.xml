@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactsListView</string>
+    <string name="people_name">Name</string>
+    <string name="back_to_main">Back to main</string>
+    <string name="total_users">Total users: %1$d</string>
+    <string name="search_users">Search user...</string>
+</resources>
